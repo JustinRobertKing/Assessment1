@@ -27,6 +27,10 @@ h1 {
 	color: #AAAAAA;
 }
 
+#text-input {
+	width: 130px;
+}
+
 input {
 	padding: 10px;
 	font-size: 60px;
